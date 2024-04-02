@@ -16,7 +16,7 @@ Here are some ideas to get you started: --!>
 <p>- 🤔 I’m looking for help with <b>nothing currently.</b></p>
 <p>- 💬 Ask me about <b>reef tanks & my cats.</b></p>
 <p>- 📫 How to reach me: <b>grahamn04@buffalostate.edu</b></p>
-<p>- 😄 Pronouns: He/Him</p>
+<p>- 😄 Pronouns: <b>He/Him</b></p>
 <p>- ⚡ Fun fact: <b>Tacos taste good</b></p>
 
 
