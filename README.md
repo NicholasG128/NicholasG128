@@ -17,5 +17,5 @@ Here are some ideas to get you started: --!>
 <p>- 😄 Pronouns: <b>He/Him</b></p>
 <p>- ⚡ Fun fact: <b>Tacos taste good</b></p>
 
-<img src "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
