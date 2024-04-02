@@ -12,7 +12,7 @@ Here are some ideas to get you started: --!>
 
 <p>- 🔭 I’m currently working on going through school to get a <b>degree</b>.</p>
 <p>- 🌱 I’m currently learning <b>Computer Information Systems.</b></p>
-<p>- 👯 I’m looking to collaborate on <b>nothing./<b></p>
+<p>- 👯 I’m looking to collaborate on <b>nothing.</b></p>
 <p>- 🤔 I’m looking for help with <b>nothing currently.</b></p>
 <p>- 💬 Ask me about <b>reef tanks & my cats.</b></p>
 <p>- 📫 How to reach me: <b>grahamn04@buffalostate.edu</b></p>
