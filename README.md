@@ -8,7 +8,7 @@ Here are some ideas to get you started: --!>
 
 
 
-** ABOUT ME : **
+<h1>ABOUT ME : </h1>
 
 <p>- 🔭 I’m currently working on going through school to get a degree.</p>
 <p>- 🌱 I’m currently learning Computer Information Systems.</p>
